@@ -13,18 +13,18 @@ The following **required** functionality is completed:
 * [x] The introduction section explains the background of the company and how many games remain unfunded.
 * [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games or all games.
 
 The following **optional** features are implemented:
 
 * [x] Implemented a functional search bar allowing users to search for specific games 
-* [x] Revamped the CSS layout and design to improve visual aesthetics, incorporating a more visually layout
+* [x] Revamped the CSS layout and design to improve visual aesthetics, incorporating a more visual layout
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gCEMEjn' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhwbGNid3JmZXZoOTB1YnlqN3JrY2J1bG1pZnNoeHZlN2FxOXp4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q8OWOTOxTXOLemD89p/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap (https://getkap.co/)  
@@ -35,7 +35,7 @@ GIF created with Kap (https://getkap.co/)
 
 ## Notes
 
-Did not face any significant issues, instructions were pretty straight forward. Helped me revise various javascript concepts.
+Did not face any significant issues, and the instructions were pretty straightforward. Helped me revise various javascript concepts.
 
 ## License
 
